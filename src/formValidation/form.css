@@ -1,0 +1,24 @@
+.container{
+    height: 90vh;
+    width: 50vh;
+    text-align: center;
+    background-color:lightgreen;
+    margin: 0 auto;
+    padding: 2rem;
+    border-radius: 50px;
+    border: 2px solid ;
+    color: green;
+
+}
+.ui{
+    color: red;
+}
+.button{
+    background-color: rgb(9, 122, 13);
+    color: white;
+    border-radius: 15px;
+    border:2px solid #ccc;
+}
+.loggedin{
+     color: rgb(9, 122, 13);
+}
